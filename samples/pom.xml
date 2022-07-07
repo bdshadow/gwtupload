@@ -89,7 +89,7 @@
 
   <properties>
     <www>${project.build.directory}/www</www>
-    <jetty.version>7.3.0.v20110203</jetty.version>
+    <jetty.version>10.0.10</jetty.version>
   </properties>
 
   <build>
